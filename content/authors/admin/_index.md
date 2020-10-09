@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Swami Sankaranarayanan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate at CSAIL
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Massachusetts Institute of Technology
+  url: "www.csail.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robust representation learning
+- Generative modeling
+- Safety critical ML systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in EE 
+    institution: University of Maryland, College Park
+    year: 2018
+  - course: MSc in Computer Sceince
+    institution: Delft University of Technology, Netherlands
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:swamiviv@mit.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/swamiviv1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=w3KgvQIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/swamiviv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +66,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am currently a Postdoc at the Vision group at MIT working with [Phillip Isola](http://web.mit.edu/phillipi/). Prior to this, 
+I was a Research Scientist at Butterfly Network, working with [Nathan Silberman](https://cs.nyu.edu/~silberman/) and was an integral part
+of the team that developed the [Auto Bladder Volume tool](https://twitter.com/ButterflyNetInc/status/1275827731138252801?s=20) among others. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my Ph.D. I was advised by [Prof. Rama Chellappa](https://www.bme.jhu.edu/faculty_staff/rama-chellappa-phd/). In my research, I have explored different 
+aspects of deep learning representations from the point of  view of robustness and invariance. I have
+worked on several topics such as Semantic Segmentation, Domain Adaptation, Adversarial learning, 
+Multi task learning and Facial recognition systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in developing learning algorithms that are not only certain about knowing things but
+are also aware of their own uncertainties i.e. to know when they don't know.
